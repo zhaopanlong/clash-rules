@@ -1,6 +1,6 @@
 payload:
   #仅限自己使用
-  - ‘d.android.com’
+  - 'd.android.com'
   - '3dns-1.adobe.com'
   - '3dns-2.adobe.com'
   - '3dns-3.adobe.com'
