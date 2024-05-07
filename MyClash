@@ -1,7 +1,7 @@
 proxy-providers:
   subscribe:
     type: http
-    url: "https://jc.yuanshare.org/api/v1/client/subscribe?token=314f1328f2379533c9b917ecb3d370f3"
+    url: "https://psub.yuanshare.org/sub?target=clash&url=https%3A%2F%2Fb.yuanshare.org%3A6789%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3D314f1328f2379533c9b917ecb3d370f3&insert=false&exclude=%E9%A6%99%E6%B8%AF&emoji=true&list=false&tfo=false&scv=true&fdn=false&sort=false&new_name=true"
     path: ./V2rayA.yaml
     interval: 7200
     health-check:
