@@ -1,6 +1,6 @@
 proxy-providers:
   subscribe:
-    type: file
+    type: http
     url: "https://jc.yuanshare.org/api/v1/client/subscribe?token=314f1328f2379533c9b917ecb3d370f3"
     path: ./V2rayA.yaml
     interval: 7200
