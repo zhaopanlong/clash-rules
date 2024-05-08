@@ -1,0 +1,5 @@
+payload:
+  #仅限自己使用
+  - '+.shopifyapps.com'
+  - 'developer.android.com'
+  - 'd.android.com'
