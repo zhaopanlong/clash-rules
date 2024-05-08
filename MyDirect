@@ -1,0 +1,9 @@
+payload:
+  #仅限自己使用
+  - 'clash.razord.top'
+  - DOMAIN-SUFFIX,jetbrains.com
+  - DOMAIN-SUFFIX,dl.google.com
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-KEYWORD,microsoft
+  - DOMAIN-KEYWORD,windows
+  - DOMAIN-KEYWORD,teamviewer
