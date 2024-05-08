@@ -1,5 +1,8 @@
 payload:
   #仅限自己使用
-  - '+.shopifyapps.com'
-  - 'developer.android.com'
-  - 'd.android.com'
+  - DOMAIN-SUFFIX,shopifyapps.com
+  - DOMAIN,developer.android.com
+  - DOMAIN-SUFFIX,d.android.com
+  - PROCESS-NAME,ClashX Pro
+  - PROCESS-NAME,ClashX
+  - DOMAIN,psub.yuanshare.org
